@@ -1,0 +1,1 @@
+This is a project in the foundation course of the odin project for setting up a basic html page with git command
